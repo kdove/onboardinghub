@@ -1,0 +1,18 @@
+.team-area{
+    width: 80%;
+  }
+  
+  .team-heading{
+    background: #00ff37;
+    color: white;
+  }
+  
+  .card-header{
+    background: blue;  
+    color: white;
+  }
+  
+  .employee-card{
+    margin: 10px 15px;
+    min-width: 33%;
+  }
